@@ -1,16 +1,7 @@
-# parallax
+# Parallax Explorer
 
-A new Flutter project.
+A stunning Flutter application that demonstrates immersive parallax scrolling effects. Explore a curated list of amazing locations from around the world with a smooth, dynamic animation.
 
-## Getting Started
+## Demo
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Parallax](https://raw.githubusercontent.com/G1Joshi/Assets/refs/heads/main/GIFs/Parallax.gif)
